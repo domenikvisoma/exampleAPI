@@ -1,0 +1,14 @@
+{
+    "systemCustomers":[
+        {
+            "id":"3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "identifier":"ABCD",
+            "name":"Musterkunde",
+            "licenseModel":"trial",
+            "expiryDate":"2025-02-28T07:46:23.234Z",
+            "host":"localhost",
+            "DatabaseConnectionString":"Host=localhost:8069;Database=VT3Database;Username=postgres;Password=root",
+            "databaseName":"VT3Database"
+        }
+    ]
+}
