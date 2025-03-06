@@ -7,7 +7,7 @@
             "licenseModel":"trial",
             "expiryDate":"2025-02-28T07:46:23.234Z",
             "host":"localhost",
-            "DatabaseConnectionString":"Host=localhost:8069;Database=VT3Database;Username=postgres;Password=root",
+            "DatabaseConnectionString":"Host=localhost:5432;Database=VT3Database;Username=postgres;Password=root",
             "databaseName":"VT3Database"
         }
     ]
